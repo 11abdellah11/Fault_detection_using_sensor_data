@@ -1,4 +1,4 @@
-# Fault_detection_using_sensordat
+# Fault_detection_using_sensordata
 
 
 We will classify in this project if the wafer works or not, based on training data.
@@ -22,11 +22,7 @@ we have 500 sensors[590 columns] and a target column [ -1/O; bad/good], the firs
 
 
 
-folder architecture:
 
-main.py
-    Validation
-    Training (rocessing,clustiring,
 
 
 
